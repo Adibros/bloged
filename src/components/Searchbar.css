@@ -45,7 +45,7 @@ form.example button,input:focus {
 
     .example{
         max-width:200px;
-        margin-top: 20px;
+        margin: 20px auto 0 auto;
         height: 30px;
         display: flex;     
     }
